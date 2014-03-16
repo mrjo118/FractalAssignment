@@ -47,3 +47,14 @@ P:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignme
 I:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.AboutBox1.resources
 I:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Form2.resources
 P:\Work\Uni work\Year 3\Advanced Software Development A\Projects\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe.config
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.exe
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.pdb
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.exe
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\bin\Debug\FractalAssignment.pdb
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.AboutBox1.resources
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Form1.resources
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Form2.resources
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.Properties.Resources.resources
+C:\Users\User\Downloads\FractalAssignment\FractalAssignment\obj\Debug\FractalAssignment.csproj.GenerateResource.Cache
